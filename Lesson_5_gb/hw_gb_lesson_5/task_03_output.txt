@@ -1,0 +1,2 @@
+Исходная строка: aaaaassssddddddddddddddddddddfg
+Сжатая строка: 5a4s20d1f1g
